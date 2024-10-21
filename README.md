@@ -17,9 +17,6 @@ Thanks for checking out my Github! I’m passionate about developing impactful s
 - **CS50.ai**  
   Improving the student experience through an AI-powered chatbot that helps students navigate assignments, enhancing their understanding of key concepts. Over 6.3 million student queries have been processed on the CS50.ai platform.
 
-- **Hackathons**  
-  I’m always on the lookout for hackathons where I can use my skills in web development (React, Node.js) and machine learning (Python, OpenAI APIs) to build creative, impactful projects. Recently, I participated in JPMorgan’s Data for Good hackathon and HackMIT.
-
 ---
 
 ## 💬 Ask Me About
