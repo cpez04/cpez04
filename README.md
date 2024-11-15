@@ -22,7 +22,7 @@ Thanks for checking out my Github! I’m passionate about developing impactful s
 ## 💬 Ask Me About
 
 - Machine Learning & AI-powered solutions (classification models, chatbot development)
-- Teaching & mentoring in CS, Stats, and beyond
+- Teaching & mentoring in CS and Stats
 
 ---
 
